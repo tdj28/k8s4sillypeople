@@ -1,2 +1,3 @@
-# k8s4sillypeople
-A tutorial on k8s for silly people
+# k8sFromScratch
+
+Learning K8s from the ground up
